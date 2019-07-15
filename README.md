@@ -1,1 +1,1 @@
-# brenshmanOpenGLDemo
+# simpleOpenGL3dGraph
