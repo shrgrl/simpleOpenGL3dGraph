@@ -1,7 +1,7 @@
 # simpleOpenGL3dGraph
 OpenGL, taşınabilir, 2D ve 3D grafik uygulamaları geliştirmek için öncü bir sistemdir. 1992 yılından beri, endüstride 2D ve 3D desteği olan ve kullanılan program arayüzü olup çok geniş bir bilgisayar ağına hizmet etmektedir. OPENGL, özel efektlerle, güçlü görsel fonksiyonlarla, haritalama için hızlı uygulama geliştirme sağlar.
 
-Bu projede de OpenGL 3D özelliklerinden faydalanıldı.
+Bu projede de OpenGL 3D özelliklerinden faydalanarak, okyanus tabakalarının sıcaklık değişimleri canlandırması amaçlandı.
 
 # Projenin Çalıştırılması
 Projeyi çalıştırmak için ortam olarak Visual Studio programını edinmemiz gerekiyor. Daha sonra dışardan indirerek eklememiz gereken <strong><i>GLU/GLUT</i></strong> kütüphaneleri var. Onlara [bu linkten](http://www.mediafire.com/file/cmlnr0pj0pyha5d/Glew_and_Glut.zip/file) ulaşabilirsiniz. Dosyayı indirdikten sonra ilk olarak dosya içindeki ".dll" uzantılı belgeleri <i>C:\Windows\System32</i> dosya yolundaki klasörün içine kopyalayıp yapıştırmamız gerekli.
