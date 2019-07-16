@@ -18,6 +18,8 @@ Burada karşımıza çıkan ekranda C/C++ seçeneğinin <strong>Genel</strong> k
 
 ![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img2.jpg)
 
-Bütün ekleme işlemlerinin ardından projemizi çalıştırabiliriz. Run tuşuna bastıktan sonra karşımıza çıkan arayüzde böyle bir görüntü belirecektir.
+Bütün ekleme işlemlerinin ardından projemizi çalıştırabiliriz. Run tuşuna bastıktan sonra karşımıza çıkan arayüzde beliren graphımızı, fare ve klavye ile kontrol ederek hareket ve konumlarını değiştirebiliriz. 
 
-![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img3.jpg) ![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img4.jpg) ![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img5.jpg)
+![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img3.jpg) 
+![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img4.jpg) 
+![](https://github.com/shrgrl/simpleOpenGL3dGraph/blob/master/img5.jpg)
